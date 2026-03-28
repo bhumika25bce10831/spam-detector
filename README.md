@@ -1,3 +1,3 @@
-## spam-detector
-#interface
-[screenshot]
+# spam-detector
+##interface
+![Output](screenshot.png)
