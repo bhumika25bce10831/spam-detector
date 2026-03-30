@@ -41,8 +41,8 @@ The model achieves high accuracy and correctly classifies most messages as spam 
 # Project Screenshots
 
 ## Screenshot 1
-![Screenshot 1](<img width="1366" height="720" alt="img1" src="https://github.com/user-attachments/assets/38420b7d-6926-445b-96e7-1da76b93b245" />
-)
+![Screenshot 1](<img width="1366" height="720" alt="img1" src="https://github.com/user-attachments/assets/df2af850-a24a-42b6-bc79-dc8b0db4008c" />)
+
 
 ## Screenshot 2
 ![Screenshot 2](spam_detector/img2.png)
