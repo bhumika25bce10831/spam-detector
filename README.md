@@ -41,10 +41,10 @@ The model achieves high accuracy and correctly classifies most messages as spam 
 # Project Screenshots
 
 ## Screenshot 1
-![Screenshot 1](img1.png)
+![Screenshot 1](spam_detector/img1.png)
 
 ## Screenshot 2
-![Screenshot 2](img2.png)
+![Screenshot 2](spam_detector/img2.png)
 
 ## Screenshot 3
-![Screenshot 3](img3.png)
+![Screenshot 3](spam_detector/img3.png)
