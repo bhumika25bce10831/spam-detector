@@ -10,13 +10,33 @@ This project uses Machine Learning to classify SMS messages as Spam or Not Spam.
 - Python
 - Pandas
 - Scikit-learn
+- Streamlit
+- Matplotlib
+
+## Features
+- Detects spam messages instantly
+- Simple user interface (UI)
+- Graph showing dataset distribution 
 
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
    pip install -r requirements.txt
-3. Run the program:
-   python spam_detector.py
+3. Run the app:
+   streamlit run app.py
+
+## Dataset
+SMS Spam Collection dataset
+
+## Project Files
+- app.py → Streamlit UI application  
+- spam_detector.py → Basic ML model  
+- spam.csv → Dataset  
+- requirements.txt → Dependencies
+
+## Result
+The model achieves high accuracy and correctly classifies most messages as spam or not spam.
+   
 
 ## Example
 Input:
@@ -26,4 +46,6 @@ Output:
 Spam Message ❌# spam-detector
 
 ##interface
-![Output](screenshot.png)
+![Output](output.png)
+
+
