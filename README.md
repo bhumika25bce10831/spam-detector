@@ -38,14 +38,13 @@ SMS Spam Collection dataset
 The model achieves high accuracy and correctly classifies most messages as spam or not spam.
    
 
-## Example
-Input:
-You won a free lottery!
+# Project Screenshots
 
-Output:
-Spam Message ❌# spam-detector
+## Screenshot 1
+![Screenshot 1](img1.png)
 
-##interface
-![Output](output.png)
+## Screenshot 2
+![Screenshot 2](img2.png)
 
-
+## Screenshot 3
+![Screenshot 3](img3.png)
